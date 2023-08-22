@@ -1,0 +1,6 @@
+[submodule "roar_server"]
+	path = roar_server
+	url = https://github.com/jluech/roar_server
+[submodule "roar_client"]
+	path = roar_client
+	url = https://github.com/jluech/roar_client
